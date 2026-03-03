@@ -47,3 +47,11 @@ Note, scanning for ports will drastically increase runtime
 ## Configuration
 
 No configuration is curently available
+
+## Running Program
+
+This is what you should see while waiting for the scan
+![terminal screen](https://https://github.com/rocktutman1/Porthole/blob/main/images/Running.png)
+
+This is what you should see after
+![terminal screen](https://https://github.com/rocktutman1/Porthole/blob/main/images/Output.png)
